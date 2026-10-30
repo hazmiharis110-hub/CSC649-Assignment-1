@@ -24,8 +24,8 @@ Agentic AI and Multimodal Computer Vision
 
 ## Author
 
-YOUR FULL NAME - CSC649 - Special Topics in Computer Science  
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+HARIS HAZMI BIN AZRAMIZI - CSC649 - Special Topics in Computer Science  
+GitHub: https://github.com/hazmiharis110-hub
 
 ## Note on GenAI
 
