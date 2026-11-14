@@ -7,7 +7,7 @@ Sellers on Mudah.my must fill in many form fields by hand, so many ads have miss
 ### Evidence
 
 - **Source:** Mudah.my (2026) describes itself as Malaysia's largest online classifieds marketplace, where millions of people buy and sell vehicles, property, electronics and home items every month. A busy site like this makes slow listing and slow replies a big problem.
-- **My own check (TODO: fill in before submitting):** On `[date]`, I started a draft ad for a `[item]` on Mudah.my and counted `[number]` fields to fill in. I also looked at `[number]` ads for the same item and found `[number]` with no description or no condition.
+- **Method I would use to measure the problem:** (1) count the form fields a seller must fill in to post an ad, and (2) check a sample of ads for the same item and count how many have no description or no condition. I did not measure this in this assignment.
 
 ## A2. Users and Stakeholders
 
